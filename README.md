@@ -14,5 +14,7 @@ A small Godot 4.4 demo showing:
 - Pixel art import settings: Filter OFF, Mipmaps OFF
 - Camera2D used for map centering
 
+Asset: https://otterisk.itch.io/hana-caraka-topdown-tileset
+
 <img width="1114" height="611" alt="image" src="https://github.com/user-attachments/assets/99e3f57f-f6e0-403a-ac6e-0a8751d0c8e1" />
 
